@@ -55,3 +55,7 @@ chmod +x ultimate_anonymity.py
 sudo python3 ultimate_anonymity.py
 
 Disclaimer: This project is strictly for educational research and authorized security assessments. Please use it responsibly.
+```bash
+sudo python3 ghost.py
+```
+
